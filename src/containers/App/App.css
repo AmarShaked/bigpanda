@@ -1,0 +1,39 @@
+.App {
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  width: 30%;
+}
+
+textarea {
+  resize: none;
+}
+
+.submit {
+  text-align: right;
+}
+
+.form {
+  padding: 15px;
+}
+
+img {
+  height: 64px;
+}
+
+.has-feedback .form-control {
+  padding-left: 30px;
+}
+
+.form-control-feedback {
+  left: 0;
+  right: none;
+}
+
+.bg-gray {
+  background-color: #ddd;
+}
+
+.bg-white {
+  background-color: #fff;
+}
